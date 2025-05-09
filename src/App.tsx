@@ -7,9 +7,9 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <>
+    <div>
       <h1>Obakeng</h1>
-    </>
+    </div>
   )
 }
 
